@@ -1,3 +1,5 @@
+console.log(__dirname);
+console.log(__filename);
 function log(message) {
   console.log(message + " module func");
 }
